@@ -1,4 +1,3 @@
-
 const characters = [
   { name: 'мечник', health: 10 },
   { name: 'маг', health: 100 },
